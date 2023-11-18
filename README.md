@@ -1,10 +1,10 @@
 # sru-tsys-sts4-c4-ta27-pt2
 
 ## Obtención de Token y capturas de las prácticas:
-[C4-TA27_Docu-y-capturas-Ejercicios.pdf](C4-TA27_Docu-y-capturas-Ejercicios.pdf)
+[https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1/C4-TA27_Docu-y-capturas-Ejercicios.pdf](https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1/C4-TA27_Docu-y-capturas-Ejercicios.pdf)
 
 ## Capturas del despliegue de la práctica 1 en Railway:
-[C4-TA27_Docu-y-capturas-Railway.pdf](C4-TA27_Docu-y-capturas-Railway.pdf)
+[https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1/C4-TA27_Docu-y-capturas-Railway.pdf](https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1/C4-TA27_Docu-y-capturas-Railway.pdf)
 
 ## Repositorio de la práctica 1:
 [https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1](https://github.com/SerotDev/sru-tsys-sts4-c4-ta27-pt1)
